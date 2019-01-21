@@ -1,0 +1,39 @@
+
+    <head>
+        <style type="text/css">
+        h1 {
+            color: White;
+          background-color: gray;
+             }
+          h2 {
+            color: black;
+            background-color: gray;
+            }
+      </style>
+    </head>
+         <body>
+        <h1>  ELLAFI Amani </br> </h1>
+        <h2> Étudiante en Master 2 Systémes d'Information pour la Production,en recherche de stage de 5 à 6 mois </h2>
+        <h3> 3 rue de la cordiére 69800 </br> Saint Priest </br> 06 50 90 81 46 </br>  Ellafi.amani@gmail.com </br> Permis B </h3>
+   
+    <titre> <h3> Formations</titre></h3>
+            <h4>2018/2019: Master 2 Compétences complémentaires en informatique </b</h4>
+            <h4>2015/2018: Master Genie des Systemes Automatisés </b</h4>
+     
+            <h4>2012/2015 : Licence en Electronique et Telecommunication </br></h4>
+            <h4>2011/2012 : Baccalaureat Mathematiques </br></h4>
+   <titre> <h3>Experiences Professionelles </titre></h3>
+        <h4>05/2018-09/2018 : HOTEL FIESTA BEACH (Djerba-TUNISIE) </h4>
+            <h4>10/2016-12/2016 : Supervision Indistriels </h4>
+            <h4>11/2016-12/2016 : Mise en place d'un réseau d'entrprise sous Unix</h4>
+            <h4>04/2016-06/2016 : Supervision d'un réacteur catalytique à inversion de flux</h4>
+            <h4>03/2015-06/2015 : Détection de la fréquence fondamentale de la parole</h4>
+            <titre> <h3> Compétences:</titre></h3>
+            <titre> <h4> <li> Informatiques  </br> <li> Automatiques </br><li> Electronique </titre></h4>
+            <titre> <h3> Langues</titre></h3>
+            <li>Allmand :<p1> Debutant</p1></li>
+            <li>Arabe :<p1> Courant</p1></li>
+             <titre> <h3> Intérets</titre></h3>
+             <li>Voyage</br> <li> Sport  </br> <li>Cinéma </br><li> Nouvelles technologies</li>
+  
+</body>
